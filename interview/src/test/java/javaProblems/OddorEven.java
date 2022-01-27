@@ -16,7 +16,9 @@ public class OddorEven {
 		}
 		else
 		{
-			System.out.println("the given number is odd");
+			System.out.println("the given numb is odd");
+			
+			
 		}
 	
 	
