@@ -1,0 +1,38 @@
+Verify a new message can be sent to an user.
+Verify by sending a message to an user with existing message history
+Verify by sending an audio message to an user
+Verify by sending a document (different sizes and format) to an user.
+Verify by sharing location to an user
+verify by sharing live location to the user
+Verify by sharing multiple documents to the user
+Verify by sending stickers to the user
+Verify by sending a forward message to a user
+Verify by sharing multiple messages to a user
+Verify by forwarding multiple Audio messages to a user
+Verify by making an audio call 
+Verify by making a video call
+Verify by making a group audio call with less users 
+Verify by making a group audio call with many users
+Verify by making a group video call with less users 
+Verify by making a group video call with less users 
+Verify by sending a large sized image to a user
+Verify by sending a large sized Video to a user
+Verify by selecting and deleting different chats in a single try.
+Verify by archiving single chat
+Verify by archiving multiple chats
+Verify by muting a single chat
+Verify by muting a multiple chats
+Verify by blocking a user
+Verify by unlocking a user
+==========================================================================
+
+Questions asked:
+
+Verification and validation
+Smoke and Sanity testing
+Cookies and cache
+incognito - cookies and cache
+
+
+
+
