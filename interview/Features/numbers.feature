@@ -9,6 +9,8 @@ Feature: Number count
     When number three
     When number four
     When number five
+    When number six
+
 
   Scenario: six to ten count
     Given all the numbers
